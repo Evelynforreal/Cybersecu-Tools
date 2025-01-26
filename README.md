@@ -1,17 +1,28 @@
  Cybersecu-Tools
  
- A cybersecurity analyst witth a brand range of tectnical skills.
+I am interested in becoming a cybersecurity analyst. I am university graduate of business
+management and google cybersecurity certificate with a brand range of technical skills
+and passion for learning and development. I have great skils of problem solving by using 
+splunk to identify and respond to security threats like compromised credentals, spot
+an insider threat before they cause your organization harm.
+
+I am interested in cybersecurity with less than a year of experience helping organizations
+to identity threat actor and protects against external and internal threats. I believe my vulunteer
+and internship will make me a candidate and will help me develop more professional skills.
+
+As a security professional with less than a year of experience gained through internships and volunteering,
+I am committed to maintaining the highest levels of information security. My knowledge of security techniques 
+such as network security, access control, and incident response enables me to detect and mitigate possible 
+risks, assuring the safety of vital data and systems. I am devoted to protecting confidentiality, complying 
+with all security standards, and consistently enhancing security policies to protect the organization's assets.
+
+My name is Evelyn. I am committed to protect people's security and financial well-being. I enjoy working
+with technology and analyzing solving complex problems.
+
+
+
+
  
-Cybersecurity Analyst: To protect computer and network system. 
-Also proactively work to prevent theat for happening. To making sure confidentiality, Integrity, and availability of information
-by protecting network devices, people and data from unauthorized access or criminal exploitation. For example, It's requiring complex
-password access site and service to improve confidentiality by making it more difficult for threat actor to compromise them.
+ 
 
-Encryption is one of model uesd makes data unreadable and difficult to decode for an unauthorized user. it's main goals is to ensure 
-confidentiality of private date. Antivirus software is a program used to prevent, detect, and eliminate malware.
-
-I am a cybersecurity analyst witth a brand range of technical skills and passion for learning and development. A team worker collaboration who
-is committed to protect your organization from cyber attacks. I have excellent skills in problem solving and effective communication and can trouble 
-shoot quickly. My experience in volunteering and placement thaught to be committed to be connected to organization's objectives and putting the needs
-of the business first
 
